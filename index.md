@@ -1,5 +1,9 @@
 # Data products
 
+Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server 
+
+[gridded temperature, salinity, and current velocity](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
+
 ## 1. Mooring data
 
 ### Temperature and salinity data from microCATS

@@ -4,7 +4,9 @@ The Rockall Trough mooring array consists of five moorings with the following ob
 
 # Data products
 
-Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
+Data are availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
+
+## 1. Mooring data
 
 T_S_gridded.nc is composed of conservative temperature, absolute salinity, and velocity data from either the western or eastern boundary mapped on to a regular depth and time grid. Data from the eastern boundary (e.g. TG_EAST, SG_EAST) is from a single mooring array east of the Rockall Trough. The western boundary data (e.g. TG_WEST,SG_WEST) comes as a merged profile from two mooring arrays west of the Rockall trough for temperature and salinity, and individual moored profiles for the velocity data (e.g. U_WEST_1,U_WEST_2).
 
@@ -27,9 +29,6 @@ T_S_gridded.nc is composed of conservative temperature, absolute salinity, and v
 |     U_EAST      |     current speed u-direction   at eastern boundary                  |     cm s-1                           |
 |     V_EAST      |     current speed v-direction   at eastern boundary                  |     cm s-1                           |
 |     W_EAST      |     current speed w-direction   at eastern boundary                  |     cm s-1                           |
-
-
-## 1. Mooring data
 
 ### Gridded Temperature, Salinity, and Pressure (Microcats)
 

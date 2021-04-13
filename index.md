@@ -1,8 +1,6 @@
 # Data products
 
-Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server 
-
-[gridded temperature, salinity, and current velocity](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
+Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html)server [here](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
 
 *Table 1. Variable names from T_S_gridded.nc*
 
@@ -28,6 +26,7 @@ Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thre
 ## 1. Mooring data
 
 ### Temperature and salinity data from microCATS
+The microcat data is made up of Conductivuty, Tempertaure (° C), and Pressure (db) records calibrated using seawater samples and in-situ CTD profiles and corrected for sensor drift. The instrument data is fitted on to a regular 2-hour time grid using linear interpolation.  Conductivity data is converted first to Practical Salinity (PSU) then Absolute Salinity, SA (g kg-1). Temperature (° C) is converted to Conservative Temperature, CT (° C). Salinity data is de-spiked for each instrument by excluding data outside of a cut-off of deployment-median salinity ± 10 g kg-1. Remaining data is further de-spiked up to n(=5) times through a loop where the cut off is one standard deviation from the deployment-median during each pass.  Contemporaneous temperature data are also excluded. SA, CT, and P are low-pass filtered with MATLABs zero-phase digital filtering function; filtfilt, using a Butterworth filter design, 6th order, with cut-off frequency of ½(days). Gaps in the filtered data of more than 10 days are populated with fill values. The resulting data is fitted to a regular 2-hour time grid using linear interpolation. SA, CT, and P from all deployments are concatenated and then fitted to a regular 12-hour horizontal time grid and 20 db vertical pressure grid using linear interpolation. Salinity data is de-spiked n(=5) times through a loop where the cut off is 3.5 standard deviation from the time-series median during each pass.  Contemporaneous temperatures are also excluded. Linear Interpolation across vertical pressure grid of data values since de-spiking.  
 
 ![png](img/EAST_TS.png)
 

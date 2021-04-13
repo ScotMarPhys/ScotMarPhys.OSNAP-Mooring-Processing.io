@@ -4,6 +4,26 @@ Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thre
 
 [gridded temperature, salinity, and current velocity](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
 
+*Table 1. Variable names from T_S_gridded.nc*
+|     Variable    |     Description                                                      |     Unit                             |
+|-----------------|----------------------------------------------------------------------|--------------------------------------|
+|     TIME        |     Time                                                             |     days since 1st   January 1950    |
+|     PRES        |     Sea water pressure                                               |     Decibar                          |
+|     TG_EAST     |     Sea water temperature at   eastern boundary                      |     o C                              |
+|     TG_WEST     |     Sea water temperature at   western boundary                      |     o C                              |
+|     SG_EAST     |     Sea water salinity at   eastern boundary                         |     g kg-1                           |
+|     SG_WEST     |     Sea water salinity at western   boundary                         |     g kg-1                           |
+|     U_WEST_1    |     current speed u-direction   at western boundary (0-1600 m)       |     cm s-1                           |
+|     V_WEST_1    |     current speed v-direction   at western boundary (0-1600 m)       |     cm s-1                           |
+|     W_WEST_1    |     current speed w-direction   at western boundary (0-1600 m)       |     cm s-1                           |
+|     U_WEST_2    |     current speed u-direction   at western boundary (1000-1800 m)    |     cm s-1                           |
+|     V_WEST_2    |     current speed v-direction   at western boundary (1000-1800 m)    |     cm s-1                           |
+|     W_WEST_2    |     current speed w-direction   at western boundary (1000-1800 m)    |     cm s-1                           |
+|     U_EAST      |     current speed u-direction   at eastern boundary                  |     cm s-1                           |
+|     V_EAST      |     current speed v-direction   at eastern boundary                  |     cm s-1                           |
+|     W_EAST      |     current speed w-direction   at eastern boundary                  |     cm s-1                           |
+
+
 ## 1. Mooring data
 
 ### Temperature and salinity data from microCATS

@@ -1,4 +1,23 @@
-![png](img/output_97_0.png)
+# Data products
+
+## 1. Mooring data
+
+### Temperature and salinity data from microCATS
+
+![png](img/EAST_TS.png)
+
+*Gridded and merged temperature, salinity, and density from the eastern boundary *
+
+
+![png](img/WEST_TS.png)
+
+*Gridded and merged temperature, salinity, and density from the eastern boundary *
+
+### Current data from aquadopps
+
+![png](img/WEST_1_NOR_U.png)
+
+*Gridded current in u direction from the eastern boundary *
 
 ## Welcome to GitHub Pages
 

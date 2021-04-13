@@ -1,3 +1,5 @@
+![png](img/output_97_0.png)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/ScotMarPhys/ScotMarPhys.OSNAP-Mooring-Processing.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.

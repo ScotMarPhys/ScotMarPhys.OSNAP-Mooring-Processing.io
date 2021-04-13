@@ -2,6 +2,12 @@
 
 Gridded mooring data is availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server 
 
+| Priority apples | Second priority | Third priority |
+|-------|--------|---------|
+| ambrosia | gala | red delicious |
+| pink lady | jazz | macintosh |
+| honeycrisp | granny smith | fuji |
+
 [gridded temperature, salinity, and current velocity](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html)
 
 *Table 1. Variable names from T_S_gridded.nc*

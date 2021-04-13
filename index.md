@@ -2,7 +2,8 @@
 
 
 ![png](img/EAST_TS.png)
-*image_caption*
+
+*Gridded and merged temperature, salinity, and density*
 
 ## Welcome to GitHub Pages
 

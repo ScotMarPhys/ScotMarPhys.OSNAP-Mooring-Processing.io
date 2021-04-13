@@ -8,7 +8,6 @@
 
 *Gridded and merged temperature, salinity, and density from the eastern boundary *
 
-
 ![png](img/WEST_TS.png)
 
 *Gridded and merged temperature, salinity, and density from the eastern boundary *
@@ -16,6 +15,10 @@
 ### Current data from aquadopps
 
 ![png](img/WEST_1_NOR_U.png)
+
+*Gridded current in u direction from the eastern boundary *
+
+![png](img/WEST_1_NOR_V.png)
 
 *Gridded current in u direction from the eastern boundary *
 
@@ -31,10 +34,6 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 ```markdown
 Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
 
 - Bulleted
 - List

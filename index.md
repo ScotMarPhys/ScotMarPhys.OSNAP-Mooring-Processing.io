@@ -4,11 +4,11 @@ The Rockall Trough mooring array consists of five moorings with the following ob
 
 # Data products
 
-Data are availabe for download on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html) using  NetCDF Climate and Forecast (CF) Metadata Conventions [Version 1.8](https://cfconventions.org/Data/cf-conventions/cf-conventions-1.8/cf-conventions.pdf) 
+Data are availabe for direct download as nectCDF files on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/lewysd/catalog.html). The NetCDF Climate and Forecast (CF) Metadata Conventions [Version 1.8](https://cfconventions.org/Data/cf-conventions/cf-conventions-1.8/cf-conventions.pdf) are used to describe the data. 
 
 ## 1. Mooring data
 
-T_S_gridded.nc is composed of conservative temperature, absolute salinity, and velocity data from either the western or eastern boundary mapped on to a regular depth and time grid. Data from the eastern boundary (e.g. TG_EAST, SG_EAST) is from a single mooring array east of the Rockall Trough. The western boundary data (e.g. TG_WEST,SG_WEST) comes as a merged profile from two mooring arrays west of the Rockall trough for temperature and salinity, and individual moored profiles for the velocity data (e.g. U_WEST_1,U_WEST_2).
+Rockall-Trough-Mooring-Time-Series-2020.nc is composed of conservative temperature, absolute salinity, and velocity data from either the western or eastern boundary mapped on to a regular depth and time grid. Data from the eastern boundary (e.g. TG_EAST, SG_EAST) is from a single mooring array east of the Rockall Trough. The western boundary data (e.g. TG_WEST,SG_WEST) comes as a merged profile from two mooring arrays west of the Rockall trough for temperature and salinity, and individual moored profiles for the velocity data (e.g. U_WEST_1,U_WEST_2).
 
 *Table 1. Variable names from T_S_gridded.nc*
 
@@ -62,39 +62,47 @@ _Figure 5. Gridded current in u direction from the western boundary_
 
 _Figure 6. Gridded current in u direction from the westrern boundary_
 
+![png](img/WEST_2_NOR_U.png)
+
+_Figure 7. Gridded current in u direction from the western boundary_
+
+![png](img/WEST_2_NOR_V.png)
+
+_Figure 8. Gridded current in u direction from the westrern boundary_
 
 ## 2. Volume transport
 
-## Welcome to GitHub Pages
+Rockall-Trough-Transport-Time-Series-2020.nc 
 
-You can use the [editor on GitHub](https://github.com/ScotMarPhys/ScotMarPhys.OSNAP-Mooring-Processing.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+|     Variable               |     Description                                                             |     Unit    |
+|----------------------------|-----------------------------------------------------------------------------|-------------|
+|     tran_moor_w            |     Western wedge   transport                                               |     Sv      |
+|     tran_moor_e            |     Eastern wedge   transport                                               |     Sv      |
+|     tran_moor_c            |     Mid-basin   transport                                                   |     Sv      |
+|     tran_moor_total        |     Sum of   western, eastern, and mid-basin transport                      |     Sv      |
+|     tran_moor_w_90d_lp     |     90 day low passed   Western wedge transport                             |     Sv      |
+|     tran_moor_e_90d_lp     |     90 day low passed   Eastern wedge transport                             |     Sv      |
+|     tran_moor_c_90d_lp     |     90 day low passed   mid-basin transport                                 |     Sv      |
+|     tran_moor_total_90d    |     Sum of 90 day   low passed western, eastern, and mid-basin transport    |             |
 
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+![png](img/WesternWedge.png)
 
-```markdown
-Syntax highlighted code block
+_Figure 9. Voume transport in the western wedge_
 
-- Bulleted
-- List
+![png](img/EasternWedge.png)
 
-1. Numbered
-2. List
+_Figure 10. Voume transport in the eastern wedge_
 
-**Bold** and _Italic_ and `Code` text
+![png](img/MidBasin.png)
 
-[Link](url) and ![Image](src)
-```
+_Figure 11. Voume transport in the western wedge_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+![png](img/TotalTransport.png)
 
-### Jekyll Themes
+_Figure 12. Voume transport in the eastern wedge_
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/ScotMarPhys/ScotMarPhys.OSNAP-Mooring-Processing.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+## 3. Glider data
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Coming soon!

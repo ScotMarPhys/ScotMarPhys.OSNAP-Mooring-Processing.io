@@ -36,11 +36,11 @@ The microcat data were made up of Conductivity, Temperature (° C), and Pressure
 
 ![png](img/EAST_TS.png)
 
-*Gridded and merged temperature, salinity, and density from the eastern boundary *
+_Figure 1. Gridded and merged temperature, salinity, and density from the eastern boundary_
 
 ![png](img/WEST_TS.png)
 
-*Gridded and merged temperature, salinity, and density from the eastern boundary *
+_Figure 2. Gridded and merged temperature, salinity, and density from the eastern boundary_
 
 ### Gridded Velocity data (Aquadopp current meters)
 
@@ -48,19 +48,19 @@ Velocity data (from Nortek current meters) were corrected for sound and magnetic
 
 ![png](img/EAST_NOR_U.png)
 
-*Gridded current in u direction from the eastern boundary *
+_Figure 3. Gridded current in u direction from the eastern boundary_
 
 ![png](img/EAST_1_NOR_V.png)
 
-*Gridded current in u direction from the eastern boundary *
+_Figure 4. Gridded current in u direction from the eastern boundary_
 
 ![png](img/WEST_1_NOR_U.png)
 
-*Gridded current in u direction from the western boundary *
+_Figure 5. Gridded current in u direction from the western boundary_
 
 ![png](img/WEST_1_NOR_V.png)
 
-*Gridded current in u direction from the westrern boundary *
+_Figure 6. Gridded current in u direction from the westrern boundary_
 
 
 ## 2. Volume transport

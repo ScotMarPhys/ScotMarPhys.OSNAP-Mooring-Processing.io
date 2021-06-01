@@ -70,8 +70,12 @@ _Figure 7. Gridded current in u direction from the western boundary_
 
 _Figure 8. Gridded current in u direction from the westrern boundary_
 
+ 
 ## 2. Volume transport
 
+comming soon!
+
+<!---
 Rockall-Trough-Transport-Time-Series-2020.nc 
 
 
@@ -102,6 +106,8 @@ _Figure 11. Voume transport in the western wedge_
 ![png](img/TotalTransport.png)
 
 _Figure 12. Voume transport in the eastern wedge_
+
+-->
 
 ## 3. Glider data
 

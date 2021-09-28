@@ -73,24 +73,38 @@ _Figure 8. Gridded current in u direction from the westrern boundary_
  
 ## 2. Volume transport
 
-comming soon!
 
-<!---
 Rockall-Trough-Transport-Time-Series-2020.nc 
 
 
-|     Variable               |     Description                                                             |     Unit    |
-|----------------------------|-----------------------------------------------------------------------------|-------------|
-|     tran_moor_w            |     Western wedge   transport                                               |     Sv      |
-|     tran_moor_e            |     Eastern wedge   transport                                               |     Sv      |
-|     tran_moor_c            |     Mid-basin   transport                                                   |     Sv      |
-|     tran_moor_total        |     Sum of   western, eastern, and mid-basin transport                      |     Sv      |
-|     tran_moor_w_90d_lp     |     90 day low passed   Western wedge transport                             |     Sv      |
-|     tran_moor_e_90d_lp     |     90 day low passed   Eastern wedge transport                             |     Sv      |
-|     tran_moor_c_90d_lp     |     90 day low passed   mid-basin transport                                 |     Sv      |
-|     tran_moor_total_90d    |     Sum of 90 day   low passed western, eastern, and mid-basin transport    |             |
+|     Variable    |     Description                                        |     Unit    |
+|-----------------|--------------------------------------------------------|-------------|
+| Q_EW            | Transport for Eastern Wedge                            |     Sv      |
+| Q_MB            | Transport for Mid-Basin                                |     Sv      |
+| Q_WW            | Transport for Western Wedge                            |     Sv      |
+| Q_tot           | Total volume transport                                 |     Sv      |
+| Q_EW_lp         | Low-passed filtered volume transport for Eastern Wedge |     Sv      |
+| Q_WW_lp         | Low-passed filtered volume transport for Western Wedge |     Sv      |
+| Q_MB_lp         | Low-passed filtered volume transport for Mid-Basin     |     Sv      |
+| Qh_tot_lp       | Low-passed filtered total volume transport             | Sv          |
+| Qh_EW           | Heat transport Eastern Wedge                           | PW          |
+| Qh_MB           | Heat transport Western Wedge                           | PW          |
+| Qh_WW           | Heat transport Mid Basin                               | PW          |
+| Qh_tot          | Total heat transport                                   | PW          |
+| Qh_EW_lp        | Low passed filtered heat transport Eastern Wedge       | PW          |
+| Qh_MB_lp        | Low passed filtered heat transport Western Wedge       | PW          |
+| Qh_WW_lp        | Low passed filtered heat transport Mid Basin           | PW          |
+| Qh_tot_lp       | Total Low passed filtered heat transport               | PW          |
+| Qf_EW            | Freshwater transport for Eastern Wedge                 |     Sv      |
+| Qf_MB            | Freshwater transport for Mid-Basin                                |     Sv      |
+| Qf_WW            | Freshwater transport for Western Wedge                            |     Sv      |
+| Qf_tot           | Total Freshwater transport                                 |     Sv      |
+| Qf_EW_lp         | Low-passed filtered Freshwater transport for Eastern Wedge |     Sv      |
+| Qf_WW_lp         | Low-passed filtered Freshwater transport for Western Wedge |     Sv      |
+| Qf_MB_lp         | Low-passed filtered Freshwater transport for Mid-Basin     |     Sv      |
+| Qf_tot_lp       | Low-passed filtered total Freshwater transport            | Sv          |
 
-
+!<--
 ![png](img/WesternWedge.png)
 
 _Figure 9. Voume transport in the western wedge_

@@ -1,10 +1,10 @@
 # The Rockall Trough Mooring Data – NERC National Capability Programme: Climate Linked Atlantic Sector Science
 
-The Rockall Trough mooring array consists of five moorings with the following objectives: Rockall Trough Western Boundary 1 (RTWB1) & Rockall Trough Eastern Boundary 1 (RTEB1) are end-point density moorings measuring the baroclinic circulation across the width of the Rockall Trough using CTDs distributed in the vertical; RTWB1 & RTWB2 measure the Wyville-Thomson Ridge overflow current along the Feni Ridge using current meters; RTEB1, RTADCP1 & RTADCP2 measure the Shelf Edge Current using current meters and 75khz long-ranger acoustic Doppler current profilers. RTWB1 and RTEB1 include bottom pressure recorders to determine the barotropic variability across the Rockall Trough. The Rockall Trough section is also surveyed by glider, up to 10 times per year, as the glider transits to and from the Hatton Bank at the beginning and end of the 4-monthly glider missions. 
+The Rockall Trough mooring array consists of five moorings with the following objectives: Rockall Trough Western Boundary 1 (RTWB1) & Rockall Trough Eastern Boundary 1 (RTEB1) are end-point density moorings measuring the baroclinic circulation across the width of the Rockall Trough using CTDs distributed in the vertical; RTWB1 & RTWB2 measure the Wyville-Thomson Ridge overflow current along the Feni Ridge using current meters; RTEB1, RTADCP1 & RTADCP2 measure the Shelf Edge Current using current meters and 75khz long-ranger acoustic Doppler current profilers. RTWB1 and RTEB1 include bottom pressure recorders to determine the barotropic variability across the Rockall Trough. The Rockall Trough section is also surveyed by glider, up to 10 times per year, as the glider transits to and from the Hatton Bank at the beginning and end of the 4-monthly glider missions.
 
 # Data products
 
-Data are availabe for direct download as nectCDF files on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/osnap/catalog.html). The NetCDF Climate and Forecast (CF) Metadata Conventions [Version 1.8](https://cfconventions.org/Data/cf-conventions/cf-conventions-1.8/cf-conventions.pdf) are used to describe the data. 
+Data are availabe for direct download as nectCDF files on the SAMS [THREDDS](https://thredds.sams.ac.uk/thredds/catalog/catalog.html) server [here](https://thredds.sams.ac.uk/thredds/catalog/osnap/catalog.html). The NetCDF Climate and Forecast (CF) Metadata Conventions [Version 1.8](https://cfconventions.org/Data/cf-conventions/cf-conventions-1.8/cf-conventions.pdf) are used to describe the data.
 
 ## 1. Mooring data
 
@@ -70,11 +70,11 @@ _Figure 7. Gridded current in u direction from the western boundary_
 
 _Figure 8. Gridded current in u direction from the westrern boundary_
 
- 
+
 ## 2. Volume transport
 
 
-Rockall-Trough-Transport-Time-Series-2020.nc 
+Rockall-Trough-Transport-Time-Series-2020.nc
 
 
 |     Variable    |     Description                                        |     Unit    |
@@ -105,21 +105,21 @@ Rockall-Trough-Transport-Time-Series-2020.nc
 | Qf_tot_lp       | Low-passed filtered total Freshwater transport            | Sv          |
 
 !<--
-![png](img/WesternWedge.png)
+![png](img/RT_Q_timeseries.png)
 
-_Figure 9. Voume transport in the western wedge_
+_Figure 9. Rockall Trough volume transport._
 
-![png](img/EasternWedge.png)
+![png](img/RT_Q_vertical.png)
 
-_Figure 10. Voume transport in the eastern wedge_
+_Figure 10. Vertcal volume transport._
 
-![png](img/MidBasin.png)
+![png](img/RT_Qf_timeseries.png)
 
-_Figure 11. Voume transport in the western wedge_
+_Figure 11. Rockall Trough freshwater transport_
 
-![png](img/TotalTransport.png)
+![png](img/RT_Qh_timeseries.png)
 
-_Figure 12. Voume transport in the eastern wedge_
+_Figure 12. Rockall Trough freshwater transport_
 
 -->
 

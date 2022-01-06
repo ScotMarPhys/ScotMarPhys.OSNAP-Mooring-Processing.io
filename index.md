@@ -165,7 +165,10 @@ _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
 
 A repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
 
+[Cunningham, Stuart & Houpert, Loïc. (2016). RSS Discovery DY053, 26 th June to 23 rd July 2016, King George V Dock, Glasgow to Reykjavick, Iceland. OSNAP Mooring Cruise Report.. 10.13140/RG.2.2.18377.54885.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/16033/)
+
 [Holliday, N.P. and et al, (2016) RRS Discovery Cruise DY054, 27 Jul - 17 Aug 2016, Reykjavik to Southampton. OSNAP 2016 mooring refurbishment cruise, Leg 2 (National Oceanography Centre Cruise Report, 40) Southampton, GB. National Oceanography Centre 77pp.](https://eprints.soton.ac.uk/400736/)
+
 
 ### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
 

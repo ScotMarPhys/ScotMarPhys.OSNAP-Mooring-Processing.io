@@ -132,7 +132,7 @@ Rockall-Trough-Transport-Time-Series-2020.nc
 | Qf_MB_lp         | Low-passed filtered Freshwater transport for Mid-Basin     |     Sv      |
 | Qf_tot_lp       | Low-passed filtered total Freshwater transport            | Sv          |
 
-!<--
+
 ![png](img/RT_Q_timeseries.png)
 
 _Figure 10. Rockall Trough volume transport._
@@ -149,11 +149,9 @@ _Figure 12. Rockall Trough heat transport_
 
 _Figure 13. Rockall Trough freshwater transport_
 
--->
-
 ## 4. Glider data <a class="anchor" id="step4"></a>
 
-Coming soon!
+Data coming soon!
 
 ![png](img/glider-hovmoller.png)
 
@@ -163,7 +161,7 @@ _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
 
 ### 5.1 List of cruise reports <a class="anchor" id="step51"></a>
 
-A repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
+A full repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
 
 [Cunningham, Stuart & Houpert, Loïc. (2016). RSS Discovery DY053, 26 th June to 23 rd July 2016, King George V Dock, Glasgow to Reykjavick, Iceland. OSNAP Mooring Cruise Report.. 10.13140/RG.2.2.18377.54885.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/16033/)
 
@@ -172,3 +170,4 @@ A repository of cruise reports for the UK-ONSAP programme is available through [
 
 ### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
 
+[Houpert, L., Inall, M. E., Dumont, E., Gary, S., Johnson, C., Porter, M., et al. (2018). Structure and transport of the north atlantic current in the Eastern Subpolar Gyre from sustained glider observations. Journal of Geophysical Research: Oceans, 123, 6019– 6038. https://doi.org/10.1029/2018JC014162](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014162)

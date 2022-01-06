@@ -8,6 +8,8 @@ _Figure 1. Figure taken from [Houpert et al., 2020](https://agupubs.onlinelibrar
 Trough (1996–2017). Potential density anomalies (kg/m3) are shown as black contour lines. The design of the UK‐OSNAP mooring array deployed since 2014 in the Rockall Trough is superimposed. The different subregions used in the calculation of the volume flux are indicated on top. Acronym: CS, Continental Shelf. Panels (b) and (c) are the
 pressure time series from the Rockall Trough WB and EB mooring instruments used in this study. Sea‐Bird SBE37 MicroCAT CTDs are indicated in red, Nortek Aquadopp current meters in blue, and reconstructed near‐surface instrument at EB1 from March to May 2017 in black (see section 2 for more details)._
 
+## Table of Contents
+
   [1. Data access](#step1)
   
   [2. Mooring data](#step2)
@@ -163,6 +165,7 @@ _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
 
 A repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
 
+[Holliday, N.P. and et al, (2016) RRS Discovery Cruise DY054, 27 Jul - 17 Aug 2016, Reykjavik to Southampton. OSNAP 2016 mooring refurbishment cruise, Leg 2 (National Oceanography Centre Cruise Report, 40) Southampton, GB. National Oceanography Centre 77pp.](https://eprints.soton.ac.uk/400736/)
 
 ### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
 

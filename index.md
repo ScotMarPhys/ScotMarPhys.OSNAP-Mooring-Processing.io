@@ -1,6 +1,6 @@
 # The Rockall Trough Mooring Data – NERC National Capability Programme: Climate Linked Atlantic Sector Science
 
-The Rockall Trough mooring array consists of five moorings with the following objectives: Rockall Trough Western Boundary 1 (RTWB1) & Rockall Trough Eastern Boundary 1 (RTEB1) are end-point density moorings measuring the baroclinic circulation across the width of the Rockall Trough using CTDs distributed in the vertical; RTWB1 & RTWB2 measure the Wyville-Thomson Ridge overflow current along the Feni Ridge using current meters; RTEB1, RTADCP1 & RTADCP2 measure the Shelf Edge Current using current meters and 75khz long-ranger acoustic Doppler current profilers (Figure 1). RTWB1 and RTEB1 include bottom pressure recorders to determine the barotropic variability across the Rockall Trough. The Rockall Trough section is also surveyed by glider, up to 10 times per year, as the glider transits to and from the Hatton Bank at the beginning and end of the 4-monthly glider missions.
+***The Rockall Trough mooring array consists of five moorings with the following objectives: Rockall Trough Western Boundary 1 (RTWB1) & Rockall Trough Eastern Boundary 1 (RTEB1) are end-point density moorings measuring the baroclinic circulation across the width of the Rockall Trough using CTDs distributed in the vertical; RTWB1 & RTWB2 measure the Wyville-Thomson Ridge overflow current along the Feni Ridge using current meters; RTEB1, RTADCP1 & RTADCP2 measure the Shelf Edge Current using current meters and 75khz long-ranger acoustic Doppler current profilers (Figure 1). RTWB1 and RTEB1 include bottom pressure recorders to determine the barotropic variability across the Rockall Trough. The Rockall Trough section is also surveyed by glider, up to 10 times per year, as the glider transits to and from the Hatton Bank at the beginning and end of the 4-monthly glider missions.***
 
 ![png](img/Loic-2020-Fig-2.png)
 
@@ -20,6 +20,12 @@ pressure time series from the Rockall Trough WB and EB mooring instruments used 
   
   [4. Glider data](#step4)
   
+  [5. References](#step5)
+
+   [5.1 List of cruise reports](#step51)
+
+   [5.2 List of published papers using these data](#step52)
+
 ## 1. Data access <a class="anchor" id="step1"></a>
 
 Data are availabe for direct download as nectCDF files from [SAMS data servers](https://thredds.sams.ac.uk/thredds/catalog/osnap/catalog.html).
@@ -150,3 +156,13 @@ Coming soon!
 ![png](img/glider-hovmoller.png)
 
 _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
+
+## 5. References <a class="anchor" id="step5"></a>
+
+### 5.1 list of cruise reports <a class="anchor" id="step51"></a>
+
+A repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
+
+
+### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
+

@@ -159,7 +159,7 @@ _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
 
 ## 5. References <a class="anchor" id="step5"></a>
 
-### 5.1 list of cruise reports <a class="anchor" id="step51"></a>
+### 5.1 List of cruise reports <a class="anchor" id="step51"></a>
 
 A repository of cruise reports for the UK-ONSAP programme is available through [BODC](https://www.bodc.ac.uk/projects/data_management/uk/uk-osnap/cruise_programme/).
 

@@ -170,4 +170,6 @@ A full repository of cruise reports for the UK-ONSAP programme is available thro
 
 ### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
 
+A full list of OSNAP publications and reports can be found [here](https://www.ukosnap.org/results-and-publications). Publications and reports using these data are being updated below.
+
 [Houpert, L., Inall, M. E., Dumont, E., Gary, S., Johnson, C., Porter, M., et al. (2018). Structure and transport of the north atlantic current in the Eastern Subpolar Gyre from sustained glider observations. Journal of Geophysical Research: Oceans, 123, 6019– 6038. https://doi.org/10.1029/2018JC014162](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014162)

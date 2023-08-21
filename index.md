@@ -193,7 +193,7 @@ table {
 
 
 
-![png](img/glider-hovmoller.png)
+![png](img/OSNAP_gliders_annotated_to_EA10.png)
 
 _Figure 1. Hovmöller plot of Rockall Trough linked glider missions._
 

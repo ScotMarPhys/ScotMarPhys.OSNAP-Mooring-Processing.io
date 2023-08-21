@@ -153,7 +153,45 @@ _Figure 13. Rockall Trough freshwater transport_
 
 ## 4. Glider data <a class="anchor" id="step4"></a>
 
-Data coming soon!
+SAMS glider missions
+<style scoped>
+table {
+  font-size: 13px;}
+</style>
+
+| Project  | Mission                        | Start date | End date  | Days in water | Months in water | Dives    (down + up) | Approx. distance (km) | Glider name     | Glider S/N | Glider mission |
+| -------- | ------------------------------ | ---------- | --------- | ------------- | --------------- | -------------------- | --------------------- | --------------- | ---------- | -------------- |
+| EEL      | Extended Ellett Line #1        | 12-Oct-09  | 07-Mar-10 | 146           | 4.9             | 789                  | 3020                  | Talisker        | SG156      | 1              |
+| EEL      | Extended Ellett Line #2        | 03-May-11  | 03-Sep-11 | 123           | 4.1             | 841                  | 2292                  | Talisker        | SG156      | 2              |
+| EEL      | Extended Ellett Line #3        | 30-Apr-14  | 13-Jul-14 | 74            | 2.5             | 651                  | 1423                  | Bellatrix       | SG532      | 5              |
+| OSNAP    | OSNAP #1                       | 16-Jul-14  | 02-Feb-15 | 201           | 6.7             | 1864                 | 3103                  | Jura            | SG604      | 1              |
+| OSNAP    | OSNAP #2                       | 14-Oct-14  | 16-Apr-15 | 184           | 6.1             | 1597                 | 2987                  | Scapa           | SG602      | 1              |
+| EEL      | Extended Ellett Line #4        | 06-Feb-15  | 18-Aug-15 | 193           | 6.4             | 1775                 | 3753                  | Ardbeg          | SG545      | 3              |
+| OSNAP    | OSNAP #3                       | 06-Feb-15  | 24-Jun-15 | 138           | 4.6             | 958                  | 2607                  | Bowmore         | SG605      | 1              |
+| OSNAP    | OSNAP #4                       | 08-Jun-15  | 01-Dec-15 | 176           | 5.9             | 886                  | 2911                  | Laphroaig       | SG603      | 2              |
+| EEL      | Extended Ellett Line #5        | 11-Feb-16  | 29-May-16 | 108           | 3.6             | 758                  | 2062                  | Eltanin         | SG156      | 1              |
+| OSNAP    | OSNAP #5                       | 11-Feb-16  | 05-Jul-16 | 145           | 4.8             | 996                  | 2298                  | Bowmore         | SG605      | 2              |
+| OSNAP    | OSNAP #6                       | 23-Aug-16  | 09-Sep-16 | 17            | 0.6             | 427                  | 420                   | Ardbeg          | SG545      | 4              |
+| OSNAP    | OSNAP #7                       | 01-Oct-16  | 10-Feb-17 | 132           | 4.4             | 1685                 | 2200                  | Growler         | u_408      | 1              |
+| EEL      | Extended Ellett Line #6        | 10-Feb-17  | 26-May-17 | 105           | 3.5             | 770                  | 1674                  | Bowmore         | SG605      | 3              |
+| OSNAP    | OSNAP #8                       | 10-Feb-17  | 04-Jul-17 | 144           | 4.8             | 1350                 | 2410                  | Scapa           | SG602      | 2              |
+| OSNAP    | OSNAP #9                       | 21-May-17  | 14-Nov-17 | 177           | 5.9             | 1618                 | 2888                  | Bellatrix       | SG532      | 6              |
+| OSNAP    | OSNAP #10                      | 14-Nov-17  | 30-Apr-18 | 167           | 5.6             | 1667                 | 2923                  | Jura            | SG604      | 2              |
+| OSNAP    | OSNAP #11                      | 30-Apr-18  | 13-Oct-18 | 166           | 5.5             | 1149                 | 2209                  | Kate Stansfield | SG616      | 1              |
+| COMPASS  | COMPASS #1                     | 13-Aug-18  | 19-Oct-18 | 67            | 2.2             | 2052                 | 735                   | Corryvreckan    | SG647      | 1              |
+| EA       | Ellett Array #1                | 09-Jan-19  | 27-Jun-19 | 169           | 5.6             | 1674                 | 3074                  | Bellatrix       | SG532      | 7              |
+| EA       | Ellett Array #2                | 27-Jun-19  | 20-Nov-19 | 146           | 4.9             | 1030                 | 1898                  | Denebola        | SG534      | 5              |
+| EA       | Ellett Array #3                | 20-Mar-20  | 30-Aug-20 | 163           | 5.4             | 1491                 | 2544                  | Bellatrix       | SG532      | 8              |
+| EA       | Ellett Array #4                | 24-Sep-20  | 27-Feb-21 | 156           | 5.2             | 1959                 | 2515                  | Bowmore         | SG605      | 5              |
+| EA       | Ellett Array #5                | 03-Mar-21  | 06-Jun-21 | 95            | 3.2             | 1330                 | 1842                  | Bellatrix       | SG532      | 9              |
+| EA       | Ellett Array #6                | 15-Oct-21  | 24-Mar-22 | 160           | 5.3             | 1978                 | 2942                  | Artemis         | SG671      | 1              |
+| EA       | Ellett Array #7                | 24-Mar-22  | 29-Apr-22 | 36            | 1.2             | 459                  | 693                   | Bellatrix       | SG532      | 10             |
+| C2       | C2 Ellett Array                | 02-Jun-22  | 26-Aug-22 | 85            | 2.8             | 1514                 | 1155                  | Omura           | SG637      | 5              |
+| EA       | Ellett Array #8                | 01-Jul-22  | 03-Nov-22 | 125           | 4.2             | 2185                 | 2046                  | Artemis         | SG671      | 2              |
+| EA       | Ellett Array #9                | 17-Nov-22  | 02-Mar-23 | 105           | 3.5             | 1126                 | 2127                  | Denebola        | SG534      | 6              |
+
+
+
 
 ![png](img/glider-hovmoller.png)
 

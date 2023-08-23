@@ -102,9 +102,9 @@ _Figure 9. Gridded current in u direction from the westrern boundary_
 
 
 ## 3. Volume transport <a class="anchor" id="step3"></a>
-
-
-Rockall-Trough-Transport-Time-Series-2020.nc
+The calculation of the Rockall Trough transport timeseries is decribed in Fraser et al. (2022, https://doi.org/10.1029/2022JC019291). 
+Rockall-Trough-Transport-Time-Series-2020.nc is the 6 years timeseries published in Fraser et al. (2022).
+Rockall-Trough-Transport-Time-Series-2022.nc extends the timeseries of Fraser et al. (2022) to 8 years.
 
 
 |     Variable    |     Description                                        |     Unit    |
@@ -129,27 +129,32 @@ Rockall-Trough-Transport-Time-Series-2020.nc
 | Qf_MB            | Freshwater transport for Mid-Basin                                |     Sv      |
 | Qf_WW            | Freshwater transport for Western Wedge                            |     Sv      |
 | Qf_tot           | Total Freshwater transport                                 |     Sv      |
-| Qf_EW_lp         | Low-passed filtered Freshwater transport for Eastern Wedge |     Sv      |
-| Qf_WW_lp         | Low-passed filtered Freshwater transport for Western Wedge |     Sv      |
-| Qf_MB_lp         | Low-passed filtered Freshwater transport for Mid-Basin     |     Sv      |
-| Qf_tot_lp       | Low-passed filtered total Freshwater transport            | Sv          |
+| Qf_EW_lp         | 90 days low-passed filtered Freshwater transport for Eastern Wedge |     Sv      |
+| Qf_WW_lp         | 90 days low-passed filtered Freshwater transport for Western Wedge |     Sv      |
+| Qf_MB_lp         | 90 days low-passed filtered Freshwater transport for Mid-Basin     |     Sv      |
+| Qf_tot_lp       | 90 days low-passed filtered total Freshwater transport            | Sv          |
 
 
-![png](img/RT_Q_timeseries.png)
 
-_Figure 10. Rockall Trough volume transport._
+![png](img/Rockall_Trough_mean_sections_2014_2022.png)
 
-![png](img/RT_Q_vertical.png)
+_Figure 3.1. Mean velocity, temperature and salinity sections recontructed from moored observations and model analysis and reanalysis from GLORYS12V1 for the western wedge (WW), the mid basin (MB) and the eastern wedge (EW) of the Rockall Trough. Red dots mark section endpoints, green triangles mark mooring positions, and the blue square marks the position of the ADCP which is simulated using GLORYS12V1 output. For more information see Fraser et al. (2022)_
 
-_Figure 11. Volume transport profiles._
+![png](img/Rockall_Trough_volume_transports_2014_2022.png)
 
-![png](img/RT_Qf_timeseries.png)
+_Figure 3.2. Extended Rockall Trough volume transport time series for the single sections (upper) and the sum of all three (lower)._
 
-_Figure 12. Rockall Trough heat transport_
+![png](img/Rockall_Trough_heat_transports_2014_2022.png)
 
-![png](img/RT_Qh_timeseries.png)
+_Figure 3.3. Extended Rockall Trough heat transport time series for the single sections (upper) and the sum of all three (lower)._
 
-_Figure 13. Rockall Trough freshwater transport_
+![png](img/Rockall_Trough_freshwater_transports_2014_2022.png)
+
+_Figure 3.4. Extended Rockall Trough freshwater transport time series for the single sections (upper) and the sum of all three (lower)._
+
+![png](img/Rockall_Trough_depth_accumulated_mean_transports_2014_2022.png)
+
+_Figure 3.5. Depth accumulated mean timeseries of volume (right), heat (middle) and freshwater transport (right) in the Rockall Trough temporal averaged between 2014 and 2022._
 
 ## 4. Glider data <a class="anchor" id="step4"></a>
 

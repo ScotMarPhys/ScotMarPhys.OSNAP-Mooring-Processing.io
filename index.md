@@ -154,7 +154,7 @@ _Figure 3.4. Extended Rockall Trough freshwater transport time series for the si
 
 ![png](img/Rockall_Trough_depth_accumulated_mean_transports_2014_2022.png)
 
-_Figure 3.5. Depth accumulated mean timeseries of volume (right), heat (middle) and freshwater transport (right) in the Rockall Trough temporal averaged between 2014 and 2022._
+_Figure 3.5. Depth accumulated mean timeseries of volume (left), heat (middle) and freshwater transport (right) in the Rockall Trough temporal averaged between 2014 and 2022._
 
 ## 4. Glider data <a class="anchor" id="step4"></a>
 

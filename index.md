@@ -212,6 +212,15 @@ A full repository of cruise reports for the UK-ONSAP programme is available thro
 
 [Holliday, N.P. and et al, (2016) RRS Discovery Cruise DY054, 27 Jul - 17 Aug 2016, Reykjavik to Southampton. OSNAP 2016 mooring refurbishment cruise, Leg 2 (National Oceanography Centre Cruise Report, 40) Southampton, GB. National Oceanography Centre 77pp.](https://eprints.soton.ac.uk/400736/)
 
+[Holliday, N.P. et al, (2017) RRS Discovery Cruise DY078/079, 06 - 28 May 2017, Southampton to Reykjavik.  Extended Ellett Line 2017 occupation and OSNAP Rockall Trough mooring refurbishment cruise, (National Oceanography Centre Cruise Report, 48) Southampton, GB. National Oceanography Centre 118pp.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/16375/)
+
+[Johns, W. et al, (2018) R/V Neil Armstrong Cruise AR30-04, 01 - 30 Jul 2018, Reykjavik to Reykjavik. OSNAP 2018 mooring refurbishment cruise, Univ. Miami, USA. 30pp.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/17189/)
+
+[Cunningham, S.A. et al, (2020) RRS Discovery Cruise DY120, 08-24 Oct 2020, Southampton to Southampton.  Climate Linked Atlantic Sector Science & Overturning in the Subpolar North Atlantic Programme. (SAMS Cruise Report) SAMS, GB. 150pp.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/17691/)
+
+[Moat, N.P. et al, (2022) RRS James Cook JC238, 12 - 31 Aug 2022, Southampton to Southampton.  CLASS and OSNAP report for JC238, (National Oceanography Centre Cruise Report, 78) Southampton, GB. National Oceanography Centre 118pp.](https://www.bodc.ac.uk/resources/inventories/cruise_inventory/report/18126/)
+
+
 
 ### 5.2 List of published papers using these data <a class="anchor" id="step52"></a>
 

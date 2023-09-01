@@ -228,4 +228,14 @@ A full list of OSNAP publications and reports can be found [here](https://www.uk
 
 [Houpert, L., Inall, M. E., Dumont, E., Gary, S., Johnson, C., Porter, M., et al. (2018). Structure and transport of the north atlantic current in the Eastern Subpolar Gyre from sustained glider observations. Journal of Geophysical Research: Oceans, 123, 6019– 6038. https://doi.org/10.1029/2018JC014162](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2018JC014162)
 
+[Lozier, M.S., Li, F., Bacon, S., Bahr, F., Bower, A.S., Cunningham, S.A., de Jong, M.F., de Steur, L., deYoung, B., Fischer, J. and Gary, S.F., 2019. A sea change in our view of overturning in the subpolar North Atlantic. Science, 363(6426), pp.516-521.](https://www.science.org/doi/10.1126/science.aau6592)
 
+[Houpert, L., Cunningham, S., Fraser, N., Johnson, C., Holliday, N.P., Jones, S., Moat, B. and Rayner, D., 2020. Observed variability of the North Atlantic Current in the Rockall Trough from 4 years of mooring measurements. Journal of Geophysical Research: Oceans, 125(10), p.e2020JC016403.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2020JC016403)
+
+[Li, F., Lozier, M.S., Bacon, S., Bower, A.S., Cunningham, S.A., De Jong, M.F., DeYoung, B., Fraser, N., Fried, N., Han, G. and Holliday, N.P., 2021. Subpolar North Atlantic western boundary density anomalies and the Meridional Overturning Circulation. Nature communications, 12(1), p.3002.](https://www.nature.com/articles/s41467-021-23350-2)
+
+[Li, F., Lozier, M.S., Holliday, N.P., Johns, W.E., Le Bras, I.A., Moat, B.I., Cunningham, S.A. and de Jong, M.F., 2021. Observation-based estimates of heat and freshwater exchanges from the subtropical North Atlantic to the Arctic. Progress in oceanography, 197, p.102640.](https://www.sciencedirect.com/science/article/pii/S0079661121001257?via%3Dihub)
+
+[Fraser, N.J., Cunningham, S.A., Drysdale, L.A., Inall, M.E., Johnson, C., Jones, S.C., Burmeister, K., Fox, A.D., Dumont, E., Porter, M. and Holliday, N.P., 2022. North Atlantic Current and European slope current circulation in the Rockall Trough observed using moorings and gliders. Journal of Geophysical Research: Oceans, 127(12), p.e2022JC019291.](https://agupubs.onlinelibrary.wiley.com/doi/10.1029/2022JC019291)
+
+Johnson, C., Fraser, N., Cunningham, S.A., Burmeister, K., Jones, S., Drysdale, L., Abell, R., Brown, P., Dumont, E., Fox, A., N. Holliday, N.P., Inall, M.A. and Reed, S., 2023. Carbon and nutrient transports in the eastern subpolar North Atlantic. Submitted to Journal of Geophysical Research: Oceans, August 2023.

@@ -71,7 +71,7 @@ _Figure 3. Gridded and merged temperature, salinity, and density from the easter
 ### 2.2 Gridded Velocity data (Aquadopp current meters) <a class="anchor" id="step22"></a>
 
 Velocity data (from Nortek current meters) were corrected for sound and magnetic deviation. The data were low-pass filtered with MATLABs zero-phase digital filtering function; filtfilt, using a Butterworth filter design, 6th order, with a cut off frequency of [fs/(1/fs*2)], where the fs is the median time between samples. 
-The velocity data from each deployment were fitted to a regular (12 hr) horizontal time and 20 db vertical pressure grid by linear, piecewise cubic polynomial, and Modified Akima piecewise cubic Hermite interpolation. Missing data between the shallowest instrument and the surface were extrapolated in the same manner. 
+The velocity data from each deployment were fitted to a regular (12 hr) horizontal time and 20 db vertical pressure grid by linear interpolation. Missing data between the shallowest instrument and the surface were extrapolated in the same manner. 
 The velocity data from each deployment were concatenated and de-spiked. Vertical differences between velocity values that exceed 10 m s-1 were excluded. Missing data resulting from de-spiking were re-fitted to the 12-hour grid along each depth using linear interpolation.
 
 ![png](img/EAST_NOR_U.png)

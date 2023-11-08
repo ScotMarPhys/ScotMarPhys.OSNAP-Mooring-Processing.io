@@ -102,7 +102,7 @@ _Figure 9. Gridded current in u direction from the westrern boundary_
 ## 3. Volume transport <a class="anchor" id="step3"></a>
 The calculation of the Rockall Trough transport timeseries is decribed in Fraser et al. (2022, https://doi.org/10.1029/2022JC019291). 
 Rockall-Trough-Transport-Time-Series-2020.nc is the 6 years timeseries published in Fraser et al. (2022).
-Rockall-Trough-Transport-Time-Series-2022.nc extends the timeseries of Fraser et al. (2022) to 8 years.
+Rockall-Trough-Transport-Time-Series-2022_v0.nc extends the timeseries of Fraser et al. (2022) to 8 years.
 
 
 |     Variable    |     Description                                        |     Unit    |
@@ -131,7 +131,8 @@ Rockall-Trough-Transport-Time-Series-2022.nc extends the timeseries of Fraser et
 | Qf_WW_lp         | 90 days low-passed filtered Freshwater transport for Western Wedge |     Sv      |
 | Qf_MB_lp         | 90 days low-passed filtered Freshwater transport for Mid-Basin     |     Sv      |
 | Qf_tot_lp       | 90 days low-passed filtered total Freshwater transport            | Sv          |
-
+||||
+|SE_* | Variables with "SE_" as prefix are the standard error of the respected variable. E.g. SE_Qh_tot is the standard error of Qh_tot in Sv. Only available for Rockall-Trough-Transport-Time-Series-2022_v0.nc | Sv or PW, respectively|
 
 
 ![png](img/Rockall_Trough_mean_sections_2014_2022.png)

@@ -28,7 +28,7 @@ _Figure 1. Figure taken from [Fraser et al., 2022]([https://agupubs.onlinelibrar
 
 ## 1. Data access <a class="anchor" id="step1"></a>
 
-Data are availabe for direct download as nectCDF files from [SAMS data servers](https://thredds.sams.ac.uk/thredds/catalog/osnap/catalog.html).
+Data are availabe for direct download as nectCDF files from [SAMS data servers](https://thredds.sams.ac.uk/thredds/catalog/osnap.html).
 
 NetCDF Climate and Forecast (CF) Metadata Conventions [Version 1.8](https://cfconventions.org/Data/cf-conventions/cf-conventions-1.8/cf-conventions.pdf) are used to describe the data.
 

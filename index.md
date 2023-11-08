@@ -116,12 +116,12 @@ Rockall-Trough-Transport-Time-Series-2022.nc extends the timeseries of Fraser et
 | Q_MB_lp         | Low-passed filtered volume transport for Mid-Basin     |     Sv      |
 | Qh_tot_lp       | Low-passed filtered total volume transport             | Sv          |
 | Qh_EW           | Heat transport Eastern Wedge                           | PW          |
-| Qh_MB           | Heat transport Western Wedge                           | PW          |
-| Qh_WW           | Heat transport Mid Basin                               | PW          |
+| Qh_MB           | Heat transport Mid Basin                               | PW          |
+| Qh_WW           | Heat transport Western Wedge                           | PW          |
 | Qh_tot          | Total heat transport                                   | PW          |
 | Qh_EW_lp        | Low passed filtered heat transport Eastern Wedge       | PW          |
-| Qh_MB_lp        | Low passed filtered heat transport Western Wedge       | PW          |
-| Qh_WW_lp        | Low passed filtered heat transport Mid Basin           | PW          |
+| Qh_MB_lp        | Low passed filtered heat transport Mid Basin           | PW          |
+| Qh_WW_lp        | Low passed filtered heat transport Western Wedge       | PW          |
 | Qh_tot_lp       | Total Low passed filtered heat transport               | PW          |
 | Qf_EW            | Freshwater transport for Eastern Wedge                 |     Sv      |
 | Qf_MB            | Freshwater transport for Mid-Basin                                |     Sv      |
